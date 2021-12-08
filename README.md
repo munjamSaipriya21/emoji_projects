@@ -1,2 +1,2 @@
-# emoji_projects
+# neogcamp-practice-emoji-app
 Created with CodeSandbox
